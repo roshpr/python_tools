@@ -1,4 +1,5 @@
-#!/usr/bin/env python2.7
+#!/usr/bin/python
+__author__ = "Rosh PR"
 import os
 import subprocess
  
